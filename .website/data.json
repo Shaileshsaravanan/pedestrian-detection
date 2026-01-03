@@ -1,4 +1,7 @@
 {
     "type": "scriptorium",
-    "preview": "gif"
+    "preview": "gif",
+    "desc": "opencv pedestrian detector",
+    "mainColour": "#3C6E71",
+    "subColour": "#B2D4D6"
 }
